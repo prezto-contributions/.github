@@ -1,2 +1,3 @@
 # .github
-Default community health file for 
+
+Default community health files for prezto-contributions.
