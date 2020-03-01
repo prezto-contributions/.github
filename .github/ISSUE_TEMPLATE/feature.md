@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Use this template for creating new feature requets.
+about: Use this template for creating new feature requests.
 ---
 <!-- Please check if a similar issue already exists or has been closed before before opening your issue. -->
 
