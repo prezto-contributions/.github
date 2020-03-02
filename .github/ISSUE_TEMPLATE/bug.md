@@ -1,6 +1,7 @@
 ---
 name: Bug
 about: Use this template for creating new bug reports.
+labels: bug
 ---
 <!-- Please check if a similar issue already exists or has been closed before before opening your issue. -->
 
